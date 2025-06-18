@@ -18,8 +18,8 @@ currently finishing my degree in **Systems Engineering** while working on real-w
 
 ## 📫 Contact Me
 - **Email**: hejohc@gmail.com
-- **LinkedIn**: [linkedin.com/in/Jerson Hernandez](https://www.linkedin.com/in/jerson-hernández-carvajal-021b99228/)
-- **GitHub**: [github.com/Jerson Hernandez](https://github.com/Jercahdz)
+- **LinkedIn**: [linkedin.com/in/JersonHernandez](https://www.linkedin.com/in/jerson-hernández-carvajal-021b99228/)
+- **GitHub**: [github.com/JersonHernandez](https://github.com/Jercahdz)
 
 ---
 
