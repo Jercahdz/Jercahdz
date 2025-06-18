@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Jerson Hernández
 
-<!--
-**Jercahdz/Jercahdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** and full-stack developer from Costa Rica 🇨🇷  
+Currently pursuing a degree in **Systems Engineering** while working on real-world projects.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- Languages: Java, PHP, JavaScript, SQL
+- Frontend: React, HTML, CSS, Tailwind, Bootstrap
+- Backend: Node.js, MySQL, Oracle
+- Tools: Git, GitHub, Scrum, Figma, QA Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Academia Monká** – Web system for a football academy (PHP, JS, MySQL)
+- **E-Tech-Haven** – Online store for tech products
+- **El Erizo Feliz** – Blog for hedgehog care lovers
+
+👉 [View My Portfolio](https://www.jercode.com)
+
+## 📫 Contact Me
+- **Email**: hejohc@gmail.com
+- **LinkedIn**: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/jerson-hernández-carvajal-021b99228/)
+- **GitHub**: [github.com/JersonHernandez](https://github.com/Jercahdz)
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jercahdz&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jercahdz&layout=compact&theme=github_dark)
