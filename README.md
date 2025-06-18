@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jerson Hernández
 
 I'm a passionate **Software Engineer** and full-stack developer from Costa Rica 🇨🇷  
-Currently pursuing a degree in **Systems Engineering** while working on real-world projects.
+currently finishing my degree in **Systems Engineering** while working on real-world projects.
 
 ## 💼 Skills
 - Languages: Java, PHP, JavaScript, SQL
@@ -18,8 +18,8 @@ Currently pursuing a degree in **Systems Engineering** while working on real-wor
 
 ## 📫 Contact Me
 - **Email**: hejohc@gmail.com
-- **LinkedIn**: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/jerson-hernández-carvajal-021b99228/)
-- **GitHub**: [github.com/JersonHernandez](https://github.com/Jercahdz)
+- **LinkedIn**: [linkedin.com/in/Jerson Hernandez](https://www.linkedin.com/in/jerson-hernández-carvajal-021b99228/)
+- **GitHub**: [github.com/Jerson Hernandez](https://github.com/Jercahdz)
 
 ---
 
